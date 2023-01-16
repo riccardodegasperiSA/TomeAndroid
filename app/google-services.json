@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993170592730",
+    "project_id": "tomeandroid-a9d70",
+    "storage_bucket": "tomeandroid-a9d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993170592730:android:53285c438eb236fe9a26e3",
+        "android_client_info": {
+          "package_name": "it.itsar.tomeandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993170592730-ssg1606d0o762mth05vi76h2kilgsh6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7qC0EYvgfytmPGENkUDJdDUgCmYXSSd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993170592730-ssg1606d0o762mth05vi76h2kilgsh6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
